@@ -40,10 +40,10 @@
                             <div class="logo_cadastro">
                                 <img src="./assets/logo_login.png" style="width: 40%;
                                      height: 90%;
-                                     margin-top: 05px;" alt="Cadastro de Clientes">
+                                     margin-top: 05px;" alt="logo_login">
                             </div>
                             <div class="text-login">
-                                <p>Tenha os Principais dados dos seus clientes.</p>
+                                <p>Tenha os nomes das suas musicas favoritas salvas.</p>
                                 <p>Interface amigável e intuitiva.</p>
                             </div>
 
