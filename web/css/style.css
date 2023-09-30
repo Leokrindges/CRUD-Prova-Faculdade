@@ -1,0 +1,39 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 de set. de 2023, 09:13:12
+    Author     : Usuario
+*/
+
+body{
+    background: url(../assets/Fundo.jpg);
+    background-size: cover;
+}
+
+.text-login {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+.button-logout {
+    border-radius: 10px;
+    background-color: #4e0070;
+    color: #ffffff;
+    margin: 0 25%;
+}
+
+.link-default {
+    color: #4e0070;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
